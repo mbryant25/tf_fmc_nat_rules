@@ -1,0 +1,6 @@
+*.tfstate*
+*.tfvars
+.idea/*
+.terraform/*
+test.csv
+.terraform.lock.hcl
